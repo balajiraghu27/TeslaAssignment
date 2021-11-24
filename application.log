@@ -1,0 +1,168 @@
+INFO:root:2021-11-23 20:41:40.737650: USGS EarthQuake Analysis Application started 
+INFO:root:2021-11-23 20:41:43.277812: Total records to be processed is 66171
+INFO:root:2021-11-23 20:41:43.278815: Extracting the data from Api in batches of 20000. Total batches will be 4
+INFO:root:2021-11-23 20:41:43.278815: Extracting data batch: 1
+INFO:root:2021-11-23 20:41:50.727261: Extracting data batch: 2
+INFO:root:2021-11-23 20:41:58.081191: Extracting data batch: 3
+INFO:root:2021-11-23 20:42:05.775548: Extracting data batch: 4
+INFO:root:2021-11-23 20:42:12.847596: APPLICATION_STATUS_TRACKER table created successfully
+INFO:root:2021-11-23 20:42:12.916351: USGS_EARTHQUOKE_CATALOG table created successfully
+INFO:root:2021-11-23 20:42:13.137987: Data load completed successfully
+INFO:root:2021-11-23 20:42:13.218075:Data load completed successfully for the period between 2017-01-01T00:00:00 and 2017-06-30T12:59:59
+INFO:root:2021-11-23 20:42:13.223730: Status updated successfully
+INFO:root:2021-11-23 20:44:00.480765: USGS EarthQuake Analysis Application started 
+INFO:root:2021-11-23 20:44:03.486519: Total records to be processed is 68186
+INFO:root:2021-11-23 20:44:03.486519: Extracting the data from Api in batches of 20000. Total batches will be 4
+INFO:root:2021-11-23 20:44:03.486519: Extracting data batch: 1
+INFO:root:2021-11-23 20:44:10.984367: Extracting data batch: 2
+INFO:root:2021-11-23 20:44:18.697843: Extracting data batch: 3
+INFO:root:2021-11-23 20:44:27.340456: Extracting data batch: 4
+INFO:root:2021-11-23 20:44:35.807117: APPLICATION_STATUS_TRACKER table already exist 
+INFO:root:2021-11-23 20:44:35.808183: USGS_EARTHQUOKE_CATALOG table already exist 
+ERROR:root:2021-11-23 20:44:35.893854: Error while running the application. Error description: (<class 'cx_Oracle.DatabaseError'>, DatabaseError(<cx_Oracle._Error object at 0x000001DA86DA9510>), <traceback object at 0x000001DA80C74200>)
+INFO:root:2021-11-23 20:44:35.900862: Status updated successfully
+INFO:root:2021-11-23 20:50:26.354459: USGS EarthQuake Analysis Application started 
+INFO:root:2021-11-23 20:50:29.904379: Total records to be processed is 11969
+INFO:root:2021-11-23 20:50:29.905374: Extracting the data from Api in batches of 20000. Total batches will be 1
+INFO:root:2021-11-23 20:50:29.905374: Extracting data batch: 1
+INFO:root:2021-11-23 20:50:34.805015: APPLICATION_STATUS_TRACKER table already exist 
+INFO:root:2021-11-23 20:50:34.806061: USGS_EARTHQUOKE_CATALOG table already exist 
+ERROR:root:2021-11-23 20:51:01.893389: Error while running the application. Error description: (<class 'KeyboardInterrupt'>, KeyboardInterrupt(), <traceback object at 0x000001E98C9A3400>)
+INFO:root:2021-11-23 20:51:01.896325: Status updated successfully
+INFO:root:2021-11-23 20:51:24.650780: USGS EarthQuake Analysis Application started 
+INFO:root:2021-11-23 20:51:24.737270: Total records to be processed is 11969
+INFO:root:2021-11-23 20:51:24.737270: Extracting the data from Api in batches of 20000. Total batches will be 1
+INFO:root:2021-11-23 20:51:24.737270: Extracting data batch: 1
+INFO:root:2021-11-23 20:51:25.087355: APPLICATION_STATUS_TRACKER table already exist 
+INFO:root:2021-11-23 20:51:25.088365: USGS_EARTHQUOKE_CATALOG table already exist 
+ERROR:root:2021-11-23 20:53:09.596857: Error while running the application. Error description: (<class 'KeyboardInterrupt'>, KeyboardInterrupt(), <traceback object at 0x0000019F085E2880>)
+INFO:root:2021-11-23 20:53:09.598854: Status updated successfully
+INFO:root:2021-11-23 20:53:33.649829: USGS EarthQuake Analysis Application started 
+INFO:root:2021-11-23 20:53:34.607905: Total records to be processed is 12301
+INFO:root:2021-11-23 20:53:34.607905: Extracting the data from Api in batches of 20000. Total batches will be 1
+INFO:root:2021-11-23 20:53:34.607905: Extracting data batch: 1
+INFO:root:2021-11-23 20:53:37.209281: APPLICATION_STATUS_TRACKER table already exist 
+INFO:root:2021-11-23 20:53:37.210636: USGS_EARTHQUOKE_CATALOG table already exist 
+ERROR:root:2021-11-23 20:54:51.720987: Error while running the application. Error description: (<class 'KeyboardInterrupt'>, KeyboardInterrupt(), <traceback object at 0x0000013D2097CAC0>)
+INFO:root:2021-11-23 20:54:51.722988: Status updated successfully
+INFO:root:2021-11-23 20:55:23.849498: USGS EarthQuake Analysis Application started 
+INFO:root:2021-11-23 20:55:24.826197: Total records to be processed is 12301
+INFO:root:2021-11-23 20:55:24.826197: Extracting the data from Api in batches of 20000. Total batches will be 1
+INFO:root:2021-11-23 20:55:24.826197: Extracting data batch: 1
+INFO:root:2021-11-23 20:55:32.186910: APPLICATION_STATUS_TRACKER table already exist 
+INFO:root:2021-11-23 20:55:32.192902: USGS_EARTHQUOKE_CATALOG table created successfully
+INFO:root:2021-11-23 20:55:34.116789: Data load completed successfully
+INFO:root:2021-11-23 20:55:34.136369:Data load completed successfully for the period between 2017-08-01 and 2017-08-31
+INFO:root:2021-11-23 20:55:34.137882: Status updated successfully
+INFO:root:2021-11-23 20:56:50.065813: USGS EarthQuake Analysis Application started 
+INFO:root:2021-11-23 20:57:08.108062: Total records to be processed is 134372
+INFO:root:2021-11-23 20:57:08.108062: Extracting the data from Api in batches of 20000. Total batches will be 7
+INFO:root:2021-11-23 20:57:08.108062: Extracting data batch: 1
+INFO:root:2021-11-23 20:57:48.217973: Extracting data batch: 2
+INFO:root:2021-11-23 20:58:25.191142: Extracting data batch: 3
+INFO:root:2021-11-23 20:59:04.418741: Extracting data batch: 4
+INFO:root:2021-11-23 20:59:40.634840: Extracting data batch: 5
+INFO:root:2021-11-23 21:00:19.053933: Extracting data batch: 6
+INFO:root:2021-11-23 21:00:58.025194: Extracting data batch: 7
+INFO:root:2021-11-23 21:01:42.206118: APPLICATION_STATUS_TRACKER table already exist 
+INFO:root:2021-11-23 21:01:42.207143: USGS_EARTHQUOKE_CATALOG table already exist 
+INFO:root:2021-11-23 21:02:05.964693: Data load completed successfully
+INFO:root:2021-11-23 21:02:06.168606:Data load completed successfully for the period between 2017-01-01 and 2017-12-31
+INFO:root:2021-11-23 21:02:06.170084: Status updated successfully
+INFO:root:2021-11-24 10:26:13.701245: USGS EarthQuake Analysis Application started 
+INFO:root:2021-11-24 10:26:15.326810: Total records to be processed is 33610
+INFO:root:2021-11-24 10:26:15.326810: Extracting the data from Api in batches of 20000. Total batches will be 2
+INFO:root:2021-11-24 10:26:15.326810: Extracting data batch: 1
+INFO:root:2021-11-24 10:26:19.944940: Extracting data batch: 2
+INFO:root:2021-11-24 10:26:24.391857: APPLICATION_STATUS_TRACKER table already exist 
+INFO:root:2021-11-24 10:26:24.400709: USGS_EARTHQUOKE_CATALOG table already exist 
+INFO:root:2021-11-24 10:26:24.625183: Data load completed successfully
+INFO:root:2021-11-24 10:26:24.840509: Data load completed successfully for the period between 2018-01-01 and 2018-03-31
+INFO:root:2021-11-24 10:26:24.845701: Status updated successfully
+INFO:root:2021-11-24 10:27:39.797524: USGS EarthQuake Analysis Application started 
+INFO:root:2021-11-24 10:27:40.630247: Total records to be processed is 10498
+INFO:root:2021-11-24 10:27:40.630247: Extracting the data from Api in batches of 20000. Total batches will be 1
+INFO:root:2021-11-24 10:27:40.630247: Extracting data batch: 1
+INFO:root:2021-11-24 10:27:42.683644: APPLICATION_STATUS_TRACKER table already exist 
+INFO:root:2021-11-24 10:27:42.684640: USGS_EARTHQUOKE_CATALOG table already exist 
+INFO:root:2021-11-24 10:27:42.727604: Data load completed successfully
+INFO:root:2021-11-24 10:27:42.816505:Data load completed successfully for the period between 2018-04-01 and 2018-04-30
+INFO:root:2021-11-24 10:27:42.817769: Status updated successfully
+INFO:root:2021-11-24 10:30:02.924287: Scheduler started 
+INFO:root:2021-11-24 10:30:03.078001: USGS EarthQuake Analysis Application started 
+INFO:root:2021-11-24 10:30:37.091876: Total records to be processed is 664939
+INFO:root:2021-11-24 10:30:37.091876: Extracting the data from Api in batches of 20000. Total batches will be 34
+INFO:root:2021-11-24 10:30:37.091876: Extracting data batch: 1
+ERROR:root:2021-11-24 10:33:37.159295: Error while running the application. Error description: (<class 'json.decoder.JSONDecodeError'>, JSONDecodeError('Expecting value: line 1 column 1 (char 0)'), <traceback object at 0x00000249F57C7080>)
+INFO:root:2021-11-24 10:33:37.197558: Status updated successfully
+INFO:root:2021-11-24 10:38:22.319675: USGS EarthQuake Analysis Application started 
+INFO:root:2021-11-24 10:38:40.756040: Total records to be processed is 188366
+INFO:root:2021-11-24 10:38:40.756040: Extracting the data from Api in batches of 20000. Total batches will be 10
+INFO:root:2021-11-24 10:38:40.756040: Extracting data batch: 1
+INFO:root:2021-11-24 10:39:19.963967: Extracting data batch: 2
+INFO:root:2021-11-24 10:39:59.733845: Extracting data batch: 3
+INFO:root:2021-11-24 10:40:39.660706: Extracting data batch: 4
+INFO:root:2021-11-24 10:41:21.987825: Extracting data batch: 5
+INFO:root:2021-11-24 10:42:02.198396: Extracting data batch: 6
+INFO:root:2021-11-24 10:42:43.215947: Extracting data batch: 7
+INFO:root:2021-11-24 10:43:24.821678: Extracting data batch: 8
+INFO:root:2021-11-24 10:44:08.090289: Extracting data batch: 9
+INFO:root:2021-11-24 10:44:52.302677: Extracting data batch: 10
+INFO:root:2021-11-24 10:45:33.171154: APPLICATION_STATUS_TRACKER table already exist 
+INFO:root:2021-11-24 10:45:33.176211: USGS_EARTHQUOKE_CATALOG table already exist 
+INFO:root:2021-11-24 10:45:34.019945: Data load completed successfully
+INFO:root:2021-11-24 10:45:34.567001:Data load completed successfully for the period between 2018-01-01 and 2018-12-31
+INFO:root:2021-11-24 10:45:34.569511: Status updated successfully
+INFO:root:2021-11-24 10:48:11.805628: USGS EarthQuake Analysis Application started 
+INFO:root:2021-11-24 10:48:30.662046: Total records to be processed is 183474
+INFO:root:2021-11-24 10:48:30.662046: Extracting the data from Api in batches of 20000. Total batches will be 10
+INFO:root:2021-11-24 10:48:30.662046: Extracting data batch: 1
+INFO:root:2021-11-24 10:49:11.447504: Extracting data batch: 2
+INFO:root:2021-11-24 10:49:54.016783: Extracting data batch: 3
+INFO:root:2021-11-24 10:50:33.713021: Extracting data batch: 4
+INFO:root:2021-11-24 10:51:12.682892: Extracting data batch: 5
+INFO:root:2021-11-24 10:51:52.447118: Extracting data batch: 6
+INFO:root:2021-11-24 10:52:32.985677: Extracting data batch: 7
+INFO:root:2021-11-24 10:53:15.670238: Extracting data batch: 8
+INFO:root:2021-11-24 10:53:57.002068: Extracting data batch: 9
+INFO:root:2021-11-24 10:54:41.267241: Extracting data batch: 10
+INFO:root:2021-11-24 10:55:23.520062: APPLICATION_STATUS_TRACKER table already exist 
+INFO:root:2021-11-24 10:55:23.521635: USGS_EARTHQUOKE_CATALOG table already exist 
+INFO:root:2021-11-24 10:55:24.231203: Data load completed successfully
+INFO:root:2021-11-24 10:55:24.531246:Data load completed successfully for the period between 2019-01-01 and 2019-12-31
+INFO:root:2021-11-24 10:55:24.533596: Status updated successfully
+INFO:root:2021-11-24 10:57:52.511697: USGS EarthQuake Analysis Application started 
+INFO:root:2021-11-24 10:58:11.199029: Total records to be processed is 192043
+INFO:root:2021-11-24 10:58:11.199029: Extracting the data from Api in batches of 20000. Total batches will be 10
+INFO:root:2021-11-24 10:58:11.200031: Extracting data batch: 1
+INFO:root:2021-11-24 10:58:52.855960: Extracting data batch: 2
+INFO:root:2021-11-24 10:59:35.722322: Extracting data batch: 3
+INFO:root:2021-11-24 11:00:20.362639: Extracting data batch: 4
+INFO:root:2021-11-24 11:01:05.254447: Extracting data batch: 5
+INFO:root:2021-11-24 11:01:47.557779: Extracting data batch: 6
+INFO:root:2021-11-24 11:02:36.609969: Extracting data batch: 7
+INFO:root:2021-11-24 11:03:19.970822: Extracting data batch: 8
+INFO:root:2021-11-24 11:04:06.035494: Extracting data batch: 9
+INFO:root:2021-11-24 11:04:49.805001: Extracting data batch: 10
+INFO:root:2021-11-24 11:05:32.965180: APPLICATION_STATUS_TRACKER table already exist 
+INFO:root:2021-11-24 11:05:32.967302: USGS_EARTHQUOKE_CATALOG table already exist 
+INFO:root:2021-11-24 11:05:33.674949: Data load completed successfully
+INFO:root:2021-11-24 11:05:34.239060:Data load completed successfully for the period between 2020-01-01 and 2020-12-31
+INFO:root:2021-11-24 11:05:34.241059: Status updated successfully
+INFO:root:2021-11-24 11:15:04.689240: Scheduler started 
+INFO:root:2021-11-24 11:15:04.707250: USGS EarthQuake Analysis Application started 
+INFO:root:2021-11-24 11:15:23.437215: Total records to be processed is 144692
+INFO:root:2021-11-24 11:15:23.437215: Extracting the data from Api in batches of 20000. Total batches will be 8
+INFO:root:2021-11-24 11:15:23.437215: Extracting data batch: 1
+INFO:root:2021-11-24 11:16:02.112115: Extracting data batch: 2
+INFO:root:2021-11-24 11:16:40.232926: Extracting data batch: 3
+INFO:root:2021-11-24 11:17:21.115769: Extracting data batch: 4
+INFO:root:2021-11-24 11:18:08.399985: Extracting data batch: 5
+INFO:root:2021-11-24 11:18:51.697936: Extracting data batch: 6
+INFO:root:2021-11-24 11:19:30.692116: Extracting data batch: 7
+INFO:root:2021-11-24 11:20:09.506015: Extracting data batch: 8
+INFO:root:2021-11-24 11:20:46.231141: APPLICATION_STATUS_TRACKER table already exist 
+INFO:root:2021-11-24 11:20:46.236341: USGS_EARTHQUOKE_CATALOG table already exist 
+INFO:root:2021-11-24 11:20:46.806498: Data load completed successfully
+INFO:root:2021-11-24 11:20:47.487075:Data load completed successfully for the period between 2020-12-31 and 2021-11-24T11:15:04.707250
+INFO:root:2021-11-24 11:20:47.493158: Status updated successfully

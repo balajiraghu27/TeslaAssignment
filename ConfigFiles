@@ -1,0 +1,14 @@
+[USGSServerDetails]
+countlink = https://earthquake.usgs.gov/fdsnws/event/1/count?
+datalink = https://earthquake.usgs.gov/fdsnws/event/1/query?
+[DBDetails]
+DBServer=localhost
+DBPort=1521
+DBServiceName=orcldev
+DBUser=basha
+DBPassword=success
+[General]
+USGSLimit=20000
+ApplicationName=USGS Earthquake Catalog
+JobStatusSuccess=Finished
+JobStatusFailure=Failed
