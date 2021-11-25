@@ -5,8 +5,8 @@ datalink = https://earthquake.usgs.gov/fdsnws/event/1/query?
 DBServer=localhost
 DBPort=1521
 DBServiceName=orcldev
-DBUser=basha
-DBPassword=success
+DBUser=<>
+DBPassword=<>
 [General]
 USGSLimit=20000
 ApplicationName=USGS Earthquake Catalog

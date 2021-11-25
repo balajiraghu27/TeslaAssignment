@@ -28,7 +28,7 @@ def createtables():
                        "APPLICATION_NAME VARCHAR2(30),	EXTRACT_START_TIME VARCHAR2(30)," \
                        "EXTRACT_END_TIME VARCHAR2(30),	JOB_START_TIME TIMESTAMP,	J" \
                        "OB_END_TIME TIMESTAMP,	RECORDS_PROCESSED NUMBER,	" \
-                       "JOB_STATUS VARCHAR2(20),	ERROR_DESC VARCHAR2(300))"
+                       "JOB_STATUS VARCHAR2(20),	ERROR_DESC VARCHAR2(1000))"
         cursor.execute(create_table)
         logging.info(str(datetime.now()) + ": APPLICATION_STATUS_TRACKER table created successfully")
     else:
